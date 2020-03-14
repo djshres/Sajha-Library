@@ -210,3 +210,4 @@ E:\Projects\Self Projects\Library\SajhaLibrary\obj\Debug\netcoreapp3.1\SajhaLibr
 E:\Projects\Self Projects\Library\SajhaLibrary\bin\Debug\netcoreapp3.1\LibraryServices.dll
 E:\Projects\Self Projects\Library\SajhaLibrary\bin\Debug\netcoreapp3.1\LibraryServices.pdb
 E:\Projects\Self Projects\Library\SajhaLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+E:\Projects\Self Projects\Library\SajhaLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Detail.cshtml.g.cs

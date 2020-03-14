@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SajhaLibrary", "SajhaLibrary.csproj", "{D593E8EF-C293-4DEB-8DB5-7A9AD89AE65C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryData", "..\LibraryData\LibraryData.csproj", "{9C77C457-61AA-4416-A7B0-68B1D947AD90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D593E8EF-C293-4DEB-8DB5-7A9AD89AE65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D593E8EF-C293-4DEB-8DB5-7A9AD89AE65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D593E8EF-C293-4DEB-8DB5-7A9AD89AE65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D593E8EF-C293-4DEB-8DB5-7A9AD89AE65C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C77C457-61AA-4416-A7B0-68B1D947AD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C77C457-61AA-4416-A7B0-68B1D947AD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C77C457-61AA-4416-A7B0-68B1D947AD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C77C457-61AA-4416-A7B0-68B1D947AD90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CF6F271-AE39-43B5-BE58-62909AAEF8FE}
+	EndGlobalSection
+EndGlobal

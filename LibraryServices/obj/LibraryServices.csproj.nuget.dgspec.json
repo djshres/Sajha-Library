@@ -1,33 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Self Projects\\Library\\LibraryServices\\LibraryServices.csproj": {}
+    "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryServices\\LibraryServices.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Self Projects\\Library\\LibraryData\\LibraryData.csproj": {
+    "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryData\\LibraryData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Self Projects\\Library\\LibraryData\\LibraryData.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryData\\LibraryData.csproj",
         "projectName": "LibraryData",
-        "projectPath": "E:\\Projects\\Self Projects\\Library\\LibraryData\\LibraryData.csproj",
-        "packagesPath": "C:\\Users\\Crossover\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Self Projects\\Library\\LibraryData\\obj\\",
+        "projectPath": "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryData\\LibraryData.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Crossover\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.2.9:13001/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,41 +71,38 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Projects\\Self Projects\\Library\\LibraryServices\\LibraryServices.csproj": {
+    "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryServices\\LibraryServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Self Projects\\Library\\LibraryServices\\LibraryServices.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryServices\\LibraryServices.csproj",
         "projectName": "LibraryServices",
-        "projectPath": "E:\\Projects\\Self Projects\\Library\\LibraryServices\\LibraryServices.csproj",
-        "packagesPath": "C:\\Users\\Crossover\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Self Projects\\Library\\LibraryServices\\obj\\",
+        "projectPath": "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryServices\\LibraryServices.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Crossover\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.2.9:13001/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Projects\\Self Projects\\Library\\LibraryData\\LibraryData.csproj": {
-                "projectPath": "E:\\Projects\\Self Projects\\Library\\LibraryData\\LibraryData.csproj"
+              "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryData\\LibraryData.csproj": {
+                "projectPath": "C:\\Users\\dell\\Desktop\\Sajha-Library\\LibraryData\\LibraryData.csproj"
               }
             }
           }
@@ -136,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -25,6 +25,9 @@ namespace SajhaLibrary
 
             services.AddSingleton(Configuration);
             services.AddScoped<ILibraryAssest, LibraryAssetService>();
+            services.AddScoped<ICheckoutService, CheckoutService>();
+            services.AddScoped<IPatronService, PatronService>();
+            services.AddScoped<ILibraryBranchService, LibraryBranchService>();
 
             services.AddDbContext<LibraryContext>(options =>
                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
